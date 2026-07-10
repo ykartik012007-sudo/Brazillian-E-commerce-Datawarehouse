@@ -50,11 +50,11 @@ Reporting & Analytics
 
 ## 🛠️ Technology Stack
 
-* Microsoft SQL Server
-* SQL
-* GitHub
-* Notion (tracking project)
-* Draw.io (flowchart,deginsing)
+- Microsoft SQL Server
+- SQL
+- GitHub (Repository hosting)
+- Notion (Project planning)
+- Draw.io (Architecture diagrams and flowcharts)
 
 ---
 
